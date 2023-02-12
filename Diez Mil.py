@@ -25,3 +25,5 @@ def mano(player):
     player.D1.tirar_dado()
 
 
+#prueba de git
+#
